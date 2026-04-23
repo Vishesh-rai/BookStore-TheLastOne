@@ -1,0 +1,6 @@
+{
+  "name": "BookStore",
+  "description": "A digital library where users can browse and authors can publish books via links, featuring real-time updates and Google Drive PDF previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
